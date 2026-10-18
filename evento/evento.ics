@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EBAC//Evento academico//PT-BR
+BEGIN:VEVENT
+UID:aniversario-0512-2026@projeto-academico.local
+DTSTAMP:20261016T170000Z
+DTSTART:20261205T220000Z
+DTEND:20261206T010000Z
+SUMMARY:Aniversario Guilherme - evento ficticio
+DESCRIPTION:Evento demonstrativo de projeto academico. Local a confirmar.
+END:VEVENT
+END:VCALENDAR
